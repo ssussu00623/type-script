@@ -18,7 +18,13 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    "baseUrl": "src",
+    // src를 기준으로 ts파일을 찾아간다
+    "paths": {
+      "@interfaces/*" : ["interfaces/*"],
+    }
+    //path를 여러개 설정 할 수 있음 @ 애끼오가 있으면 바로 찾아갈 수 있다네
   },
   "include": [
     "src"

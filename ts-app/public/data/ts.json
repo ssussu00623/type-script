@@ -1,0 +1,76 @@
+{
+    "employees": [
+        {
+            "age": 25,
+            "department": "구계장",
+            "emoji": "👦",
+            "name": "부성길"
+        },
+        {
+            "age": 19,
+            "department": "영부인",
+            "name": "양관식"
+        },
+        {
+            "age": 18,
+            "department": "대통령",
+            "emoji": "👧",
+            "name": "이애순"
+        },
+        {
+            "age": 18,
+            "department": "공인중개사",
+            "name": "박영란"
+        }
+    ],
+    "foodList": [
+        {
+            "emoji": "🍔",
+            "name": "햄버거",
+            "price": 100
+        },
+        {
+            "emoji": "🍜",
+            "name": "라멘",
+            "text": "맛있는 라멘~"
+        },
+        {
+            "emoji": "🌭",
+            "name": "핫도그",
+            "price": 200
+        },
+        {
+            "emoji": "🍱",
+            "name": "도시락",
+            "text": "가성비 짱 ! 도시락"
+        },
+        {
+            "emoji": "🍰",
+            "name": "케이크",
+            "text": "달콤한 케이크"
+        },
+        {
+            "emoji": "🍩",
+            "name": "도넛",
+            "price": 300
+        }
+    ],
+    "menus": [
+        {
+            "emoji": "🍎",
+            "name": "apple",
+            "price": 3000
+        },
+        {
+            "emoji": "🍋",
+            "name": "lemon",
+            "price": 4000,
+            "source": "이탈리아"
+        },
+        {
+            "emoji": "🍒",
+            "name": "cherry",
+            "source": "미국"
+        }
+    ]
+}
